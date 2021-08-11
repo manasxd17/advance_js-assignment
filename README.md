@@ -12,6 +12,7 @@ node main.js
 ```javascript
 Q1 
 npm i cross-fetch
+cd Q2_assignment2
 node index.js
 ```
  
