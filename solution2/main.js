@@ -38,4 +38,4 @@ const main = async (input) => {
     console.log(results)
 }
 
-main('node')   //input
+main('python')   //input
