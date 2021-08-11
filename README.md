@@ -1,6 +1,7 @@
 # advance_js-assignment
 
-### usage
+## Usage
+### Assignment -1
 ```javascript
  solution2:
 npm i cross-fetch
@@ -9,7 +10,7 @@ node main.js
 ```
 ### Assignment-2
 ```javascript
-Q1 :
+Q1 - 
 npm i cross-fetch
 node index.js
 ```
