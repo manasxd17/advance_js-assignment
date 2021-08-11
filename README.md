@@ -2,8 +2,9 @@
 
 ### usage
 ```javascript
-solution2
+solution2:
 npm i cross-fetch
-node - main.js
+cd solution2
+node main.js
 ```
  
