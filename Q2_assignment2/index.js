@@ -26,6 +26,6 @@ const QueenAttak = class{
     }
 }
 
-const chess = new QueenAttak([10,7],[7,10])
+const chess = new QueenAttak([0,0],[7,7])
 chess.canAttack()
 
