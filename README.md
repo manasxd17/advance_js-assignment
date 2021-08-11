@@ -2,7 +2,7 @@
 
 ### usage
 ```javascript
-Question2
+solution2
 npm i cross-fetch
 node - main.js
 ```
