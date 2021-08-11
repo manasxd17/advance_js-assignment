@@ -2,13 +2,14 @@
 
 ### usage
 ```javascript
-### solution2:
+ solution2:
 npm i cross-fetch
 cd solution2
 node main.js
-
-## Assignment-2
-### Q1
+```
+### Assignment-2
+```javascript
+Q1 :
 npm i cross-fetch
 node index.js
 ```
