@@ -31,7 +31,7 @@ const main = async (input) => {
                     },
             'licenseName':i.license,        //license?.name is not working here
             'score':i.score,
-            // 'numberOfBranches':i.branches_url.replace('{/branches}',' ').length
+            // 'numberOfBranches':call(i.branches_url.replace('{/branches}',' ')).length
             }
         results.push(result)
     }
